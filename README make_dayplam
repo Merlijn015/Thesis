@@ -1,0 +1,26 @@
+# make_dayplan
+```
+[dayplan]=make_dayplan(timedata,Nsim,T);
+```
+## Discription
+Makes dayplan from xls file (load excel function)
+
+## Paramters
+| Paramter | Description |
+|--------- |-------------|
+|timedata  |(with following ordered headings)
+```
+1. line
+2. type (train)
+3. track
+4. dir
+5. dir
+6. dep(arture)
+7. arr(iaval)
+8. run 
+9. shift
+10. dwell
+``` |
+| Nsim | sumulation interval |
+
+
